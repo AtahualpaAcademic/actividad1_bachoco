@@ -114,6 +114,19 @@ footer {
 }
 
 .contact{
-    background-color: #edf1f2;
-    
+    background-color: #edf1f2;   
+}
+
+.class{
+    height: 60px;
+    width: auto;
+}
+
+.culturabachoco{
+    margin-left: 23%;
+}
+
+.certificaciones{
+    background-color: rgb(12, 12, 66);
+    color: white;
 }
