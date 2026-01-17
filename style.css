@@ -24,11 +24,6 @@ header {
     mix-blend-mode: multiply;
 }
 
-/*header h1{
-    margin-left: 300px;
-    font-size: 25px;
-}*/
-
 nav {
     display: flex;
     justify-content: space-between;
@@ -88,16 +83,6 @@ input, textarea {
     border: 1px solid #ddd;
 }
 
-button {
-    padding: 0.5rem;
-    background: #2a3bc7;
-    color: white;
-    border: none;
-    border-radius: 50px;
-    cursor: pointer;
-    margin-right: 50%;
-}
-
 footer {
     background: #606061;
     color: white;
@@ -106,7 +91,7 @@ footer {
 }
 
 .opciones{
-    margin-right: 20%;
+    margin-right: 10%;
 }
 
 .projects{
@@ -133,6 +118,30 @@ footer {
 
 .social-icons img {
     width: 35px; 
-    margin-left: 90%;
+    margin-left: 80%;
     filter: grayscale(100%); 
+}
+
+.titulo_redes_sociales{
+    margin-left: 80%;
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-links li {
+    margin-bottom: 8px;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: #444;
+    font-size: 20px;
+}
+
+.mensaje{
+    margin-right: 50%;
 }
