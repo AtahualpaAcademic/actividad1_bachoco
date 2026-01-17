@@ -142,6 +142,14 @@ footer {
     font-size: 20px;
 }
 
-.mensaje{
-    margin-right: 50%;
+.project-card{
+     list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.project-card a{
+    text-decoration: none;
+    color: #444;
+    font-size: 20px;
 }
