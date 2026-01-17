@@ -130,3 +130,9 @@ footer {
     background-color: rgb(12, 12, 66);
     color: white;
 }
+
+.social-icons img {
+    width: 35px; 
+    margin-left: 90%;
+    filter: grayscale(100%); 
+}
